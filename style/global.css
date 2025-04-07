@@ -90,8 +90,8 @@ h1 {
       var(--brand-color-primary) 100%
     );
 
-    /* -webkit-background-clip: text;
-    background-clip: text; */
+    -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
   }
 
