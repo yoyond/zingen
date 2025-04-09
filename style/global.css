@@ -54,11 +54,12 @@
 
      overflow-x: hidden; /*impede a rolagem */
 
-    scroll-behavior: smooth;
+     scroll-behavior: smooth;  /*efeito de rolagem*/
   }
 
   body {
     background-color: var(--bg-color);
+    overflow-x: hidden;
   }
 
   h1,
