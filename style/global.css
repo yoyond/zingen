@@ -52,7 +52,9 @@
     line-height: 1.6;
     color: var(--text-color-primary);
 
-    overflow-x: hidden;
+     overflow-x: hidden; /*impede a rolagem */
+
+    scroll-behavior: smooth;
   }
 
   body {
