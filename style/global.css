@@ -111,7 +111,7 @@ img {
 }
 
 
-  @media (width >= 80em) {
+  @media (width >= 80rem) {
     :root {
       --fs-lg: 2rem;
       --fs-xl: 3rem;
