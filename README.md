@@ -21,6 +21,7 @@ A landing page foi criada com foco em design atrativo, responsividade e experiê
 - Imagens de alta qualidade
 - Sessões com **cards de assinatura**
 - Área de **download do produto**
+- Responsividade e **compatibilidade mobile**
 
 ---
 
@@ -29,9 +30,14 @@ A landing page foi criada com foco em design atrativo, responsividade e experiê
 - HTML5  
 - Tailwind CSS  
 - Scroll Smooth (comportamento de rolagem suave)
+- Design responsivo
 
----
+## 📌 Observações
+Esse projeto é apenas um modelo de produto e foi desenvolvido com fins educacionais.
+Todo o layout foi pensado para apresentar de forma clara e atrativa um aplicativo fictício de karaokê.
 
 ## 📸 Preview
 
 ![Screenshot da Landing Page](assets/preview.png)
+
+
